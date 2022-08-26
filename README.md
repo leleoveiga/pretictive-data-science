@@ -1,1 +1,1 @@
-# pretictive-data-science
+# Deep Learning Project – Handwritten Digit Recognition using Python
